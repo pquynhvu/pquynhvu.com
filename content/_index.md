@@ -134,7 +134,7 @@ sections:
           company_logo: asa
           location: Ontario, CA
           date_start: '2023-04-29'
-          #date_end: '2023-04-30'
+          date_end: ''
           description: |2-
               Provided statistical, computational, and application-specific guidance during the competition as needed. 
         - title: Tutor
