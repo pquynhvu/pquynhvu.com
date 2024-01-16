@@ -2,7 +2,7 @@
 title: 'The Conundrum of COVID-19: The Case of Toronto'
 
 event: '2023 SSC ANNUAL MEETING IN OTTAWA'
-event_url: https://example.org
+event_url: https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa
 
 location: Carleton University 
 address:
@@ -34,11 +34,11 @@ image:
   caption: 'Image credit: [**Unsplash**](https://ssc.ca/sites/default/files/carleton_photo_dev_1.jpg)'
   focal_point: Right
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+#links:
+  #- icon: twitter
+    #icon_pack: fab
+    #name: Follow
+    #url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
