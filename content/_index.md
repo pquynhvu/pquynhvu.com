@@ -122,7 +122,7 @@ sections:
               * Administered various mathematical and statistical analyses to assess the validity of initial conjectures, the bijection, boundedness and centring properties of the Markov chains.  
     design:
       columns: '2'
-  - block: experience
+  - block: activities
     id: news
     content:
       title: 'News & Activities'
@@ -137,7 +137,8 @@ sections:
           date_end: '2023-04-30'
           description: |2-
               Provide statistical, computational, and application-specific guidance during the competition as needed. 
-
+    design:
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
