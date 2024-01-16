@@ -68,8 +68,8 @@ sections:
               Responsibilities include:
 
               * Met bi-weekly with the consultant team and collaborators in other social and physical science fields who work on data-driven projects and give advice on how to run their experiments optimally and apply appropriate statistical analyses to each respective project.
-              * Perform literature reviews to learn about the appropriate statistical analyses and research statistical communication techniques to felicitously engage with non-statistical collaborators and help build a “tip sheet" of statistical methods for different disciplines.
-              * Prepare statistics presentations and reports to assess the appropriateness of analyses and provide verbal feedback on any underlying statistical fallacies and paradoxes to both lay and statistical audiences for improvement.
+              * Performed literature reviews to learn about the appropriate statistical analyses and research statistical communication techniques to felicitously engage with non-statistical collaborators and help build a “tip sheet" of statistical methods for different disciplines.
+              * Prepared statistics presentations and reports to assess the appropriateness of analyses and provide verbal feedback on any underlying statistical fallacies and paradoxes to both lay and statistical audiences for improvement.
         - title: Teaching Assistant
           company: Department of Statistical Sciences, University of Toronto 
           company_url: 'https://www.statistics.utoronto.ca/'
@@ -81,7 +81,7 @@ sections:
               Responsibilities include:
 
               * Led tutorials on R programming and course material revision with undergraduate students.
-              * Grade tests and assignments, invigilate exams, and hold weekly office hours to dispense interpretation and clarification on class materials.
+              * Graded tests and assignments, invigilate exams, and hold weekly office hours to dispense interpretation and clarification on class materials.
               * Monitored Piazza discussion platform and regularly answered students' questions to facilitate and moderate further discussions.
         - title: Heath Data Analyst Intern
           company: INFORMED VIETNAM - VMED GROUP 
@@ -122,11 +122,10 @@ sections:
               * Administered various mathematical and statistical analyses to assess the validity of initial conjectures, the bijection, boundedness and centring properties of the Markov chains.  
     design:
       columns: '2'
-  - block: accomplishments
+  - block: experience
+    id: news
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'News & Activities'
-      subtitle:
       date_format: Jan 2006
       items:
         - title: Mentor
@@ -134,10 +133,18 @@ sections:
           company_url: 'https://www.statistics.utoronto.ca/datafest'
           company_logo: asa
           location: Ontario, CA
-          date_start: '2023-05-01'
-          date_end: '2023-05-01'
+          date_start: '2023-04-29'
+          date_end: '2023-04-30'
           description: |2-
               Provide statistical, computational, and application-specific guidance during the competition as needed. 
+
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'News & Activities'
+      subtitle:
+      date_format: Jan 2006
+      items:
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
