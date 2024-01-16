@@ -158,6 +158,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+    id: featured
     content:
       title: Preprints & Publications
       text: |-
@@ -181,25 +182,6 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: markdown
-    content:
-      title: Me, Myself, and I
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   - block: contact
     id: contact
     content:
