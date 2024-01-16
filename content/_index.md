@@ -275,11 +275,11 @@ sections:
       phone: (+ 1) 416-897-7663
       email: pquynhvu@outlook.com
       #appointment_url: 'https://calendly.com'
-      contact_links:
-        - icon: skype
-          icon_pack: fab
-          name: Skype
-          link: 'live:.cid.996a0491c4f0a7a3'
+      #contact_links:
+        #- icon: skype
+          #icon_pack: fab
+          #name: Skype
+          #link: 'live:.cid.996a0491c4f0a7a3'
         #- icon: video
           #icon_pack: fas
           #name: Zoom Me
