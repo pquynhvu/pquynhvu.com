@@ -30,7 +30,7 @@ bio: My research interests lie at the interface of Bayesian statistics, variatio
 # Interests to show in About widget
 interests:
   - Bayesian statistics 
-  - Probabilistic Machine Learning
+  - Probabilistic machine learning
   - Computational statistics
 
 # Education to show in About widget

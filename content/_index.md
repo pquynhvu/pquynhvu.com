@@ -45,36 +45,30 @@ sections:
   - block: experience
     content:
       title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Research Assistant
+          company: University of Toronto, Mississauga
+          company_url: 'https://www.utm.utoronto.ca/math-cs-stats/'
+          company_logo: uoft
+          location: Ontario, CA
+          date_start: '2023-06-01'
           date_end: ''
+          description: |2-
+              Developed a Bayesian non-parametric model validation framework for rightcensored data based on Kullback-Leibler divergence and the Beta-Stacy processes.
+        - title: Statistical Consultant
+          company: 'Data Sciences Institute @ University of Toronto' 
+          company_url: 'https://datasciences.utoronto.ca/data-sciences-cafe/'
+          company_logo: dsi
+          location: Ontario, CA
+          date_start: '2023-01-01'
+          date_end: '2023-12-31'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Met bi-weekly with the consultant team and collaborators in other social and physical science fields who work on data-driven projects and give advice on how to run their experiments optimally and apply appropriate statistical analyses to each respective project.
+              * Perform literature reviews to learn about the appropriate statistical analyses and research statistical communication techniques to felicitously engage with non-statistical collaborators and help build a “tip sheet" of statistical methods for different disciplines.
+              * Prepare statistics presentations and reports to assess the appropriateness of analyses and provide verbal feedback on any underlying statistical fallacies and paradoxes to both lay and statistical audiences for improvement.
     design:
       columns: '2'
   - block: accomplishments
