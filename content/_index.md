@@ -133,8 +133,8 @@ sections:
           company_url: 'https://www.statistics.utoronto.ca/datafest'
           company_logo: asa
           location: Ontario, CA
-          date_start: '2023-04-29'
-          date_end: ''
+          date_start: '2023-04-28'
+          date_end: '2023-04-30'
           description: |2-
               Provided statistical, computational, and application-specific guidance during the competition as needed. 
         - title: Tutor
