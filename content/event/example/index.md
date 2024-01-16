@@ -1,7 +1,7 @@
 ---
-title: Example Talk
+title: 'The Conundrum of COVID-19: The Case of Toronto'
 
-event: Hugo Blox Builder Conference
+event: '2023 SSC ANNUAL MEETING IN OTTAWA'
 event_url: https://example.org
 
 location: Carleton University 
@@ -12,13 +12,13 @@ address:
   postcode: 'K1S5B7'
   country: Canada
 
-summary: 'The Conundrum of COVID-19: The Case of Toronto'
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+#summary: '2023 SSC ANNUAL MEETING IN OTTAWA'
+abstract: 'The unprecedented emergence of COVID-19 upended our lives to a great extent, resulting in pressing health crises and economic fallouts on a global scale.There have been, by and large, appreciable variations in the course of the COVID-19 outbreak across countries and territories. To come within the scope ofthis study, we combined resident-level COVID-19 fatalities data in Toronto, the 2016 census demographics data and the community council data to quantifythe differentials in the extent to which residents in four Toronto districts are susceptible to COVID-19 during the early phase of the pandemic. We modelledthe probability that individuals in different age groups would pass on after contracting COVID-19 in 2020 by the Hierarchical Logit Model. The findings arethat these probabilities differ across four districts, which is attributable to varied capacities and unequal access to hospitals among neighbourhoods to acertain degree. Our aim is to provide data-based guidance for further research in public health policies to reduce health inequities.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-05-30T13:00:00Z'
+date_end: '2023-05-03T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
