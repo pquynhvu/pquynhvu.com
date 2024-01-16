@@ -56,7 +56,7 @@ sections:
           date_start: '2023-06-01'
           date_end: ''
           description: |2-
-              Developed a Bayesian non-parametric model validation framework for rightcensored data based on Kullback-Leibler divergence and the Beta-Stacy processes.
+              Developed a Bayesian non-parametric model validation framework for right-censored data based on Kullback-Leibler divergence and the Beta-Stacy processes.
         - title: Statistical Consultant
           company: 'Data Sciences Institute @ University of Toronto' 
           company_url: 'https://datasciences.utoronto.ca/data-sciences-cafe/'
@@ -70,9 +70,59 @@ sections:
               * Met bi-weekly with the consultant team and collaborators in other social and physical science fields who work on data-driven projects and give advice on how to run their experiments optimally and apply appropriate statistical analyses to each respective project.
               * Perform literature reviews to learn about the appropriate statistical analyses and research statistical communication techniques to felicitously engage with non-statistical collaborators and help build a “tip sheet" of statistical methods for different disciplines.
               * Prepare statistics presentations and reports to assess the appropriateness of analyses and provide verbal feedback on any underlying statistical fallacies and paradoxes to both lay and statistical audiences for improvement.
+        - title: Teaching Assistant
+          company: Department of Statistical Sciences, University of Toronto 
+          company_url: 'https://www.statistics.utoronto.ca/'
+          company_logo: uoft
+          location: Ontario, CA
+          date_start: '2022-09-01'
+          date_end: '2023-06-30'
+          description: |2-
+              Responsibilities include:
+
+              * Led tutorials on R programming and course material revision with undergraduate students.
+              * Grade tests and assignments, invigilate exams, and hold weekly office hours to dispense interpretation and clarification on class materials.
+              * Monitored Piazza discussion platform and regularly answered students' questions to facilitate and moderate further discussions.
+        - title: Heath Data Analyst Intern
+          company: INFORMED VIETNAM - VMED GROUP 
+          company_url: 'https://infomed.com.vn/'
+          company_logo: vietba
+          location: Ho Chi Minh City, Vietnam 
+          date_start: '2022-04-01'
+          date_end: '2022-08-31'
+          description: |2-
+              Responsibilities include:
+
+              * Collected data from case histories of patients in general hospitals across Ho Chi Minh City and Ha Noi (Vietnam) in accordance with HIPPA guidelines and internal procedures.
+              * Executed analyses of patients’ vital signs, laying stress on pulse and respiration rates, along with blood pressure and oxygen saturation levels (spo2), found in clinical observations to establish a health index that measures risk factors for metabolic syndrome.
+              * Retrieved findings for insurance companies to reassess life insurance options policies via policyholders’ health outcomes.
+        - title: Research Assistant
+          company: Department of Mathematics and Statistics, York University 
+          company_url: 'https://www.yorku.ca/science/mathstats/'
+          company_logo: yorku
+          location: Ontario, CA
+          date_start: '2021-05-01'
+          date_end: '2021-08-31'
+          description: |2-
+              Responsibilities include:
+
+              * Performed literature review on global research on coronavirus diseases (COVID-19) and liaised closely with other research assistant fellows and post-doctoral researchers to keep up with findings and developments within the team.
+              * Implemented agent-based simulations in Anylogic and executed quantitative data analysis to assess the impact of antiviral pharmaceutical or non-pharmaceutical interventions in mitigating aerial and surface transmissions of COVID-19 pathogens under various vaccination coverage and theme park capacities.
+        - title: Research Assistant
+          company: Department of Mathematics and Statistics, York University 
+          company_url: 'https://www.yorku.ca/science/mathstats/'
+          company_logo: yorku
+          location: Ontario, CA
+          date_start: '2020-05-01'
+          date_end: '2020-08-31'
+          description: |2-
+              Responsibilities include:
+
+              * Implemented Monte Carlo algorithms for generating affine bounded pattern-avoiding permutations.
+              * Administered various mathematical and statistical analyses to assess the validity of initial conjectures, the bijection, boundedness and centring properties of the Markov chains.  
     design:
       columns: '2'
-  - block: accomplishments
+  - block: activities
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
