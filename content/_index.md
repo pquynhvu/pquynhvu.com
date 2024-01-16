@@ -122,10 +122,10 @@ sections:
               * Administered various mathematical and statistical analyses to assess the validity of initial conjectures, the bijection, boundedness and centring properties of the Markov chains.  
     design:
       columns: '2'
-  - block: activities
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'News & Activities'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
