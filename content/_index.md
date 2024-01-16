@@ -125,16 +125,19 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'News & Activities'
+      title: 'News &shy Activities'
       subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Mentor
+          company: ASA DataFest @ University of Toronto
+          company_url: 'https://www.statistics.utoronto.ca/datafest'
+          company_logo: asa
+          location: Ontario, CA
+          date_start: '2023-05-01'
+          date_end: '2023-05-01'
+          description: |2-
+              Provide statistical, computational, and application-specific guidance during the competition as needed. 
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
