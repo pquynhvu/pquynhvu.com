@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'pquynhvu@outlook.com'
+    link: 'mailto:pquynhvu@outlook.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/pquynhvu
