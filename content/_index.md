@@ -122,10 +122,10 @@ sections:
               * Administered various mathematical and statistical analyses to assess the validity of initial conjectures, the bijection, boundedness and centring properties of the Markov chains.  
     design:
       columns: '2'
-  - block: activities
+  - block: experience
     id: news
     content:
-      title: 'News & Activities'
+      title: 'Extracurricular Activities'
       date_format: Jan 2006
       items:
         - title: Mentor
@@ -136,7 +136,25 @@ sections:
           date_start: '2023-04-29'
           date_end: '2023-04-30'
           description: |2-
-              Provide statistical, computational, and application-specific guidance during the competition as needed. 
+              Provided statistical, computational, and application-specific guidance during the competition as needed. 
+        - title: Tutor
+          company: Math Kangaroo @ York University
+          company_url: 'https://www.yorku.ca/science/mathstats/math-kangaroo/'
+          company_logo: knagaroo
+          location: Ontario, CA
+          date_start: '2020-01-02'
+          date_end: '2020-04-30'
+          description: |2-
+              Planned lessons, provided weekly review sessions to prime students, and invigilated students during the Canadian Mathematics Kangaroo Contest.  
+        - title: Tutor
+          company: Excel Lassonde @ York University
+          company_url: 'https://excellassonde.ca/'
+          company_logo: excel
+          location: Ontario, CA
+          date_start: '2019-01-02'
+          date_end: '2019-12-31'
+          description: |2-
+              Provided free and on-demand tutoring services to first-year science and engineering students in Calculus and Linear Algebra on a one-to-one basis.
     design:
       columns: '2'
   - block: accomplishments
@@ -178,7 +196,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: News
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
