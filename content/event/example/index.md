@@ -40,8 +40,8 @@ image:
     #name: Follow
     #url: https://twitter.com/georgecushen
 url_code: 'https://raw.githubusercontent.com/pquynhvu/bayes/main/SSC2023/code/R.Rmd'
-url_pdf: 'https://github.com/pquynhvu/bayes/blob/main/SSC2023/poster/poster.pdf'
-url_slides: ''
+url_pdf: ''
+url_slides: 'https://github.com/pquynhvu/bayes/blob/main/SSC2023/poster/poster.pdf'
 url_video: ''
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
