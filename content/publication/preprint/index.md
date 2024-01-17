@@ -1,6 +1,7 @@
 ---
 title: "KL Divergence-Based Model Validation for Right Censored Data: Insights from Bayesian Non-parametric Methods"
 authors:
+- Luai Al-Labadi
 - admin
 date: "2024-01-17T00:00:00Z"
 doi: ""
@@ -60,9 +61,3 @@ url_code: 'https://github.com/pquynhvu/KL-model-validation'
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
