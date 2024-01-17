@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://ssc.ca/sites/default/files/carleton_photo_dev_1.jpg)'
+  caption: 'Image credit: [**Carleton University**](https://ssc.ca/sites/default/files/carleton_photo_dev_1.jpg)'
   focal_point: Right
 
 #links:
@@ -41,7 +41,7 @@ image:
     #url: https://twitter.com/georgecushen
 url_code: 'https://raw.githubusercontent.com/pquynhvu/bayes/main/SSC2023/code/R.Rmd'
 url_pdf: ''
-url_slides: 'static/uploads/ssc2023.pdf'
+url_slides: 'static/ssc2023.pdf'
 url_video: ''
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
