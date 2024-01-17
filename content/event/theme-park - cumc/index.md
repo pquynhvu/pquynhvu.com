@@ -32,7 +32,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**York University**](https://events.yorku.ca/wp-content/uploads/2023/07/SUMMER_RESEARCH_2023-scaled.jpg)'
+  caption: 'Image credit: [**Canadian Undergraduate Mathematics Conference**](https://cumc.math.ca/2021/static/media/headerFull.8e859a7a.png)'
   focal_point: Right
 
 #links:
