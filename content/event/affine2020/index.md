@@ -2,7 +2,7 @@
 title: 'Bounded affine pattern-avoiding permutations'
 
 event: '2020 Undergraduate Research Conference'
-event_url: https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa
+event_url: https://events.yorku.ca/events/summer-2023-undergraduate-research-conference/
 
 location: York University 
 address:
