@@ -19,7 +19,7 @@ publishDate: "2021-10-21T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Annals of Combinatorics, 25*1007–1048 (2021)"
 publication_short: ""
 
 abstract: ''
@@ -34,8 +34,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://doi.org/10.1007/s00026-021-00553-4
+url_code: 'https://github.com/pquynhvu/mcmc/tree/main/affine-permutation'
 #url_dataset: ''
 #url_poster: ''
 #url_project: ''
@@ -55,13 +55,13 @@ url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+#projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
