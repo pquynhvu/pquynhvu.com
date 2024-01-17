@@ -40,7 +40,7 @@ image:
     #icon_pack: fab
     #name: Follow
     #url: https://twitter.com/georgecushen
-# url_code: 'https://raw.githubusercontent.com/pquynhvu/bayes/main/SSC2023/code/R.Rmd'
+url_code: 'https://github.com/pquynhvu/mcmc/tree/main/affine-permutation'
 url_pdf: ''
 url_slides: 'https://github.com/pquynhvu/pquynhvu.com/blob/main/content/event/affine2020/affine-poster.pdf'
 url_video: ''

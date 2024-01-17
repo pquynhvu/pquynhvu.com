@@ -80,4 +80,4 @@ highlight_name: true
 
 I am a recent Statistics Master's graduate in the Department of Statistical Sciences at the University of Toronto. My current research interests lie at the interface of Bayesian statistics, variational inference, and uncertainty quantification. In particular, I develop statistical methods to address inferential challenges induced by discrepancies between the study and target populations, computational constraints, or the qualitative nature of data per se. In my past life, my research focused on Markov chain processes, mathematical optimization, and agent-based modeling.
 
-{style="text-align-last: justify;"}
+{style="text-align: justify;"}
