@@ -19,7 +19,7 @@ publishDate: "2021-10-21T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Annals of Combinatorics, 25, *1007–1048 (2021)"
+publication: "Annals of Combinatorics"
 publication_short: ""
 
 abstract: 'I generated random 4321-avoiding bounded affine permutation of size 500 using a Markov chain Monte Carlo algorithm (Figures 6 and 8) under the supervision of the first author, [**Professor Neal Madras**](https://madras.mathstats.yorku.ca/).'
