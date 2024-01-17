@@ -40,7 +40,7 @@ image:
     #name: Follow
     #url: https://twitter.com/georgecushen
 url_code: 'https://raw.githubusercontent.com/pquynhvu/bayes/main/SSC2023/code/R.Rmd'
-url_pdf: ''
+url_pdf: 'https://github.com/pquynhvu/bayes/blob/main/SSC2023/poster/poster.pdf'
 url_slides: ''
 url_video: ''
 # Markdown Slides (optional).
@@ -48,7 +48,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ssc2023.pdf
+# slides: ssc2023.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
