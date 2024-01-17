@@ -25,13 +25,14 @@ organizations:
     url: https://www.statistics.utoronto.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie at the interface of Bayesian statistics, variational methods in statistical inference, and uncertainty quantification.
+bio: ''
 
 # Interests to show in About widget
 interests:
-  - Bayesian statistics 
-  - Probabilistic machine learning
-  - Computational statistics
+  - Bayesian Statistics 
+  - Probabilistic Machine Learning
+  - Computational Statistics
+  - Markov Chain Monte Carlo
 
 # Education to show in About widget
 education:
