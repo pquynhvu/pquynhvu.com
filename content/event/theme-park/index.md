@@ -1,15 +1,16 @@
 ---
-title: 'The Conundrum of COVID-19: The Case of Toronto'
+title: 'Stochastic modelling of COVID-19 transmission among visitors in theme parks'
 
-event: '2023 SSC ANNUAL MEETING IN OTTAWA'
+event: '2021 Undergraduate Research Conference'
 event_url: https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa
 
-location: Carleton University 
+location: York University 
 address:
-  street: 1125 Colonel By Drive
-  city: Ottawa
+  street: Life Sciences Building (LSB) Lobby
+  city: Toronto
   region: Ontario
-  postcode: 'K1S5B7'
+  postcode: 'M3J 1P0
+'
   country: Canada
 
 #summary: '2023 SSC ANNUAL MEETING IN OTTAWA'
@@ -17,8 +18,8 @@ abstract: 'The unprecedented emergence of COVID-19 upended our lives to a great 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-05-28T13:00:00Z'
-date_end: '2023-05-31T15:00:00Z'
+date: '2021-08-16T13:00:00Z'
+date_end: '2021-08-16T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -31,7 +32,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Carleton University**](https://ssc.ca/sites/default/files/carleton_photo_dev_1.jpg)'
+  caption: 'Image credit: [**York University**](https://events.yorku.ca/wp-content/uploads/2023/07/SUMMER_RESEARCH_2023-scaled.jpg)'
   focal_point: Right
 
 #links:
