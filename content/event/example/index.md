@@ -41,7 +41,7 @@ image:
     #url: https://twitter.com/georgecushen
 url_code: 'https://raw.githubusercontent.com/pquynhvu/bayes/main/SSC2023/code/R.Rmd'
 url_pdf: ''
-url_slides: 'static/ssc2023.pdf'
+url_slides: {{% staticref "uploads/ssc2023.pdf" "newtab" %}}Download my poster{{% /staticref %}}
 url_video: ''
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
