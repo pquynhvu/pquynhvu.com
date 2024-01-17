@@ -13,16 +13,16 @@ address:
   country: Canada
 
 #summary: '2023 SSC ANNUAL MEETING IN OTTAWA'
-abstract: 'The unprecedented emergence of COVID-19 upended our lives to a great extent, resulting in pressing health crises and economic fallouts on a global scale.There have been, by and large, appreciable variations in the course of the COVID-19 outbreak across countries and territories. To come within the scope ofthis study, we combined resident-level COVID-19 fatalities data in Toronto, the 2016 census demographics data and the community council data to quantifythe differentials in the extent to which residents in four Toronto districts are susceptible to COVID-19 during the early phase of the pandemic. We modelledthe probability that individuals in different age groups would pass on after contracting COVID-19 in 2020 by the Hierarchical Logit Model. The findings arethat these probabilities differ across four districts, which is attributable to varied capacities and unequal access to hospitals among neighbourhoods to acertain degree. Our aim is to provide data-based guidance for further research in public health policies to reduce health inequities.'
+abstract: 'The unprecedented emergence of COVID-19 upended our lives to a great extent, resulting in pressing health crises and economic fallouts on a global scale.There have been, by and large, appreciable variations in the course of the COVID-19 outbreak across countries and territories. To come within the scope ofthis study, we combined resident-level COVID-19 fatalities data in Toronto, the 2016 census demographics data and the community council data to quantify the differentials in the extent to which residents in four Toronto districts are susceptible to COVID-19 during the early phase of the pandemic. We modelled the probability that individuals in different age groups would pass on after contracting COVID-19 in 2020 by the Hierarchical Logit Model. The findings arethat these probabilities differ across four districts, which is attributable to varied capacities and unequal access to hospitals among neighbourhoods to acertain degree. Our aim is to provide data-based guidance for further research in public health policies to reduce health inequities.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-05-30T13:00:00Z'
-date_end: '2023-05-03T15:00:00Z'
+date: '2023-05-28T13:00:00Z'
+date_end: '2023-05-31T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -39,9 +39,9 @@ image:
     #icon_pack: fab
     #name: Follow
     #url: https://twitter.com/georgecushen
-url_code: ''
+url_code: 'https://raw.githubusercontent.com/pquynhvu/bayes/main/SSC2023/code/R.Rmd'
 url_pdf: ''
-url_slides: ''
+url_slides: 'ssc2023.pdf'
 url_video: ''
 
 # Markdown Slides (optional).

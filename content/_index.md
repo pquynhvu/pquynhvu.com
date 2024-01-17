@@ -67,9 +67,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Met bi-weekly with the consultant team and collaborators in other social and physical science fields who work on data-driven projects and give advice on how to run their experiments optimally and apply appropriate statistical analyses to each respective project.
-              * Performed literature reviews to learn about the appropriate statistical analyses and research statistical communication techniques to felicitously engage with non-statistical collaborators and help build a “tip sheet" of statistical methods for different disciplines.
-              * Prepared statistics presentations and reports to assess the appropriateness of analyses and provide verbal feedback on any underlying statistical fallacies and paradoxes to both lay and statistical audiences for improvement.
+              * Met bi-weekly with the consultant team and collaborators in other social and physical science fields who worked on data-driven projects and gave advice on how to run their experiments optimally and apply appropriate statistical analyses to each respective project.
+              * Performed literature reviews to learn about the appropriate statistical analyses and researched statistical communication techniques to felicitously engage with non-statistical collaborators and help build a “tip sheet" of statistical methods for different disciplines.
+              * Prepared statistics presentations and reports to assess the appropriateness of analyses and provided verbal feedback on any underlying statistical fallacies and paradoxes to both lay and statistical audiences for improvement.
         - title: Teaching Assistant
           company: Department of Statistical Sciences, University of Toronto 
           company_url: 'https://www.statistics.utoronto.ca/'
@@ -81,7 +81,7 @@ sections:
               Responsibilities include:
 
               * Led tutorials on R programming and course material revision with undergraduate students.
-              * Graded tests and assignments, invigilate exams, and hold weekly office hours to dispense interpretation and clarification on class materials.
+              * Graded tests and assignments, invigilated exams, and held weekly office hours to dispense interpretation and clarification on class materials.
               * Monitored Piazza discussion platform and regularly answered students' questions to facilitate and moderate further discussions.
         - title: Heath Data Analyst Intern
           company: INFORMED VIETNAM - VMED GROUP 
