@@ -41,9 +41,9 @@ image:
     #url: https://twitter.com/georgecushen
 url_code: 'https://raw.githubusercontent.com/pquynhvu/bayes/main/SSC2023/code/R.Rmd'
 url_pdf: ''
-url_slides: 'ssc2023.pdf'
+#url_slides: 'ssc2023.pdf'
 url_video: ''
-
+links = [{name = "Poster", url="https://github.com/pquynhvu/bayes/blob/main/SSC2023/poster/poster.pdf"}]
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
