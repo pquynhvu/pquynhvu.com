@@ -1,7 +1,7 @@
 ---
-title: 'Stochastic modelling of COVID-19 transmission among visitors in theme parks'
+title: 'Bounded affine pattern-avoiding permutations'
 
-event: '2021 Undergraduate Research Conference'
+event: '2020 Undergraduate Research Conference'
 event_url: https://ssc.ca/en/meetings/annual/2023-ssc-annual-meeting-ottawa
 
 location: York University 
@@ -14,13 +14,12 @@ address:
   country: Canada
 
 #summary: '2023 SSC ANNUAL MEETING IN OTTAWA'
-abstract: 'COVID-19 is a contagious disease that results from the novel strain of coronavirus. Since the first interhuman transmission case reported in Wuhan City, Hubei Province, China, it has caused widespread disruption to businesses worldwide, particularly tourism and hospitality industries. Mitigating the epidemic and reducing fatalities requires answers to critical questions on airborne and surface transmission as well as the efficacy of
-antiviral pharmaceutical or non-pharmaceutical interventions. Due to a robust vaccination rollout, the province of Ontario has begun reopening including the opening of Canada’s Wonderland at limited capacity.'
+abstract: 'Pattern avoiding affine permutation represents an interface between combinatorics and group theory, which has been a topic of research interest for decades Following the attainments made previously, this project focuses on assessing various conjectures on the features of a permutation of a given size that avoids a certain pattern. Specifically, the 4231 avoiding permutation is at the center of this project. The Markov chain Monte Carlo methods are implemented using MATLAB and Visual Studio. Well-defined algorithms are programmed into computer software with the aim of executing the long run performance of Markov chains and graphical illustrations. The initial chain, preferably the one avoiding either 321 4321 or 4231 patterns, is modified over time using deletion and insertion algorithms until it reaches the stationary state. The significant complexity of the work is to deal with the more intricate nature of affine permutations, which can be viewed as infinite periodic extensions of ordinary finite permutations. Upon present completion, the inspection of typical shapes of pseudo random permutations avoiding a given pattern, as well as the validity of coded algorithms, is being performed to eliminate systematic errors. Once accomplished, mathematical and other probabilistic methods are employed to examine the properties of a class of 4231 avoiding permutation. The simulation result is important since it not only verifies theoretical assumptions but also provides an intuitive sense and thorough guidance for further research in combinatorics and probability theory.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-08-16T13:00:00Z'
-date_end: '2021-08-16T15:00:00Z'
+date: '2020-08-16T13:00:00Z'
+date_end: '2020-08-16T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -43,7 +42,7 @@ image:
     #url: https://twitter.com/georgecushen
 # url_code: 'https://raw.githubusercontent.com/pquynhvu/bayes/main/SSC2023/code/R.Rmd'
 url_pdf: ''
-url_slides: 'https://github.com/pquynhvu/pquynhvu.com/blob/main/content/event/theme-park/covid-poster.pdf'
+url_slides: 'https://github.com/pquynhvu/pquynhvu.com/blob/main/content/event/affine2020/affine-poster.pdf'
 url_video: ''
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
