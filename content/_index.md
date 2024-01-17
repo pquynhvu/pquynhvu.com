@@ -88,7 +88,7 @@ sections:
           company_url: 'https://infomed.com.vn/'
           company_logo: vietba
           location: Ho Chi Minh City, Vietnam 
-          date_start: '2022-04-01'
+          date_start: '2022-01-02'
           date_end: '2022-08-31'
           description: |2-
               Responsibilities include:
