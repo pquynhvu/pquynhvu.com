@@ -37,6 +37,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. in Statistics
+      institution: University of Florida
+      year: 2024-2028
     - course: M.Sc. in Statistics
       institution: University of Toronto
       year: 2023
